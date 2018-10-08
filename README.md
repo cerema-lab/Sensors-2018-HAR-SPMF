@@ -7,7 +7,7 @@ This repository includes the codes and models for the paper: "**_Spatio-Temporal
 
 ## Requirements
 
-To train the deep neural networks in our experiments, you need to download and install [Keras 2.x.x](https://keras.io/) with [TensorFlow > 1.6](https://www.tensorflow.org/) as the backend and put image data to the folders. 
+To train the deep neural networks in our experiments, you need to download and install [Keras 2.x.x](https://keras.io/) with [TensorFlow > 1.6](https://www.tensorflow.org/) as the backend and put image data to the folders: data/MSR Action3D; data/NTU-RGB+D, data/SBU Interaction and data/KARD. 
 
 ## Experimental results
 
