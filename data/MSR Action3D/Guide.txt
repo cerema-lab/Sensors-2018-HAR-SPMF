@@ -1,0 +1,1 @@
+Download the MSR Action3D dataset and converting all skeleton joints into RGB images as described in the paper.
